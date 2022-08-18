@@ -1,6 +1,6 @@
 # manim-complex-fourier
 
-Note that this code was from TheoremOfBeethoven, for an older version of manim - namely ManimGL.
+Note that this code was from TheoremOfBeethoven, for an older version of manim - namely ManimCairo.
 
 You can find it on the official repository for Manim, and install either with git or pip.
 If you are installing it, it is recommended to do so in a virtual environment just so your current manim installation does not get corrupted by overwritten files, etc.
